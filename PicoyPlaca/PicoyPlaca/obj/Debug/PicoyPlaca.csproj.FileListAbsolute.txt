@@ -1,0 +1,7 @@
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe.config
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.exe
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\bin\Debug\PicoyPlaca.pdb
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csprojAssemblyReference.cache
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.csproj.CoreCompileInputs.cache
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.exe
+C:\Users\iabn\source\repos\PicoyPlaca\PicoyPlaca\obj\Debug\PicoyPlaca.pdb
